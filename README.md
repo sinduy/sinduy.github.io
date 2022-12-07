@@ -1,6 +1,6 @@
 <div align="center">
 
-  # Chirpy Jekyll Theme
+  # SINDUY 
 
   A minimal, responsive, and powerful Jekyll theme for presenting professional writing.
 
